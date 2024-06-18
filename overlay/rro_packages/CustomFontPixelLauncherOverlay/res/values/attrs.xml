@@ -1,0 +1,38 @@
+<resources>
+    <declare-styleable name="DeviceProfile">
+        <attr name="allAppsStyle" format="integer"/>
+        <attr name="cellStyle" format="integer"/>
+        <attr name="dbFile" format="string"/>
+        <attr name="defaultLayoutId" format="integer"/>
+        <attr name="demoModeLayoutId" format="integer"/>
+        <attr name="deviceCategory" format="integer"/>
+        <attr name="devicePaddingId" format="integer"/>
+        <attr name="folderStyle" format="integer"/>
+        <attr name="hotseatColumnSpan" format="integer"/>
+        <attr name="inlineNavButtonsEndSpacing" format="integer"/>
+        <attr name="inlineQsb" format="boolean"/>
+        <attr name="isScalable" format="boolean"/>
+        <attr name="AllAppsCellSpecsId" format="integer"/>
+        <attr name="AllAppsCellSpecsTwoPanelId" format="integer"/>
+        <attr name="AllAppsSpecsId" format="integer"/>
+        <attr name="AllAppsSpecsTwoPanelId" format="integer"/>
+        <attr name="FolderSpecsId" format="integer"/>
+        <attr name="FolderSpecsTwoPanelId" format="integer"/>
+        <attr name="HotseatSpecsId" format="integer"/>
+        <attr name="HotseatSpecsTwoPanelId" format="integer"/>
+        <attr name="workspaceCellSpecsId" format="integer"/>
+        <attr name="WorkspaceCellSpecsTwoPanelId" format="integer"/>
+        <attr name="WorkspaceSpecsId" format="integer"/>
+        <attr name="WorkspaceSpecsTwoPanelId" format="integer"/>
+        <attr name="name" format="string"/>
+        <attr name="numAllAppsColumns" format="integer"/>
+        <attr name="numColumns" format="integer"/>
+        <attr name="numDatabaseAllAppsColumns" format="integer"/>
+        <attr name="numDatabaseHotseatIcons" format="integer"/>
+        <attr name="numFolderColumns" format="integer"/>
+        <attr name="numFolderRows" format="integer"/>
+        <attr name="numHotseatIcons" format="integer"/>
+        <attr name="numRows" format="integer"/>
+        <attr name="numSearchContainerColumns" format="integer"/>
+    </declare-styleable>
+</resources>
